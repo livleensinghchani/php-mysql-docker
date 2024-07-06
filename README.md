@@ -10,18 +10,7 @@ Make sure you have the following installed on your machine:
 
 ## Project Structure
 
- root/
- │
- ├── src/
- │ ├── page/
- │ ├── dbconnect.php
- │ └── index.php
- ├── .env
- ├── .gitignore
- ├── docker-compose.yml
- ├── dockerfile
- └── README.md
-
+![image](https://github.com/livleensinghchani/php-mysql-docker/assets/115384067/841082db-73c4-42f9-af53-714cc192eb98)
 
 - `docker-compose.yml`: Configuration file for Docker Compose.
 - `.env`: Environment file for PHP - MYSQL.
