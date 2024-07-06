@@ -8,3 +8,4 @@
 # These files should not be pushed on GITHUB!
 
 dbData
+.env
