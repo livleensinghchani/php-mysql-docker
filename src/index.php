@@ -11,4 +11,8 @@
 //  Refer to //LINK - docker-compose.yml 
 //***************************************** */
 
+  include __DIR__."/dbconnect.php";
+
+  ob_start();
   echo"<h1>HEY USER</h1>";
+  ob_end_flush();
