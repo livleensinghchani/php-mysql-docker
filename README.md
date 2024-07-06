@@ -12,15 +12,15 @@ Make sure you have the following installed on your machine:
 
 root/
 │
-├── .env
-├── dockerfile
-├── docker-compose.yml
 ├── src/
-│ ├── index.php
+│ ├── page/
 │ ├── dbconnect.php
-│ └── page/
-├── README.md
-└── .gitignore
+│ └── index.php
+├── .env
+├── .gitignore
+├── docker-compose.yml
+├── dockerfile
+└── README.md
 
 
 - `docker-compose.yml`: Configuration file for Docker Compose.
