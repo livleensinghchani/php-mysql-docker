@@ -31,5 +31,5 @@ Make sure you have the following installed on your machine:
 
 ## Happy Coding! <3
 
-## Livleen Singh Chani
+### Livleen Singh Chani
 ## GITHUB https://github.com/livleensinghchani
