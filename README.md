@@ -10,17 +10,17 @@ Make sure you have the following installed on your machine:
 
 ## Project Structure
 
-root/
-│
-├── src/
-│ ├── page/
-│ ├── dbconnect.php
-│ └── index.php
-├── .env
-├── .gitignore
-├── docker-compose.yml
-├── dockerfile
-└── README.md
+- root/
+- │
+- ├── src/
+- │ ├── page/
+- │ ├── dbconnect.php
+- │ └── index.php
+- ├── .env
+- ├── .gitignore
+- ├── docker-compose.yml
+- ├── dockerfile
+- └── README.md
 
 
 - `docker-compose.yml`: Configuration file for Docker Compose.
