@@ -18,6 +18,12 @@ Make sure you have the following installed on your machine:
 - `index.php`: The landing page of the application.
 - `dbconnect.php`: The script for database connection.
 
+## Connecting to MySQL Using MySQL Workbench (Any External Tools)
+- HOST: localhost
+- PORT: 3307 (No need to open port on firewall)
+- USER: root
+- PASSWORD: [Refer to .env file]
+
 ## Happy Coding! <3
 
 ### Livleen Singh Chani
