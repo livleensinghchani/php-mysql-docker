@@ -5,6 +5,8 @@
   // where you want database access
   // ******************************
 
+  // We will use PDO Library to connect to database
+
   // MYSQL Credentials for connection
   $dbServer = getenv('MYSQL_SERVER');
   $dbUser = getenv('MYSQL_USER');
